@@ -14,7 +14,7 @@ This project is a simple yet powerful Todo List Manager built using Django 5.0 f
 1. Clone the repository:
 
    ```bash
-   git clone [https://github.com/your-username/Django-5.0-Todo-List-Manager.git](https://github.com/MoviesLiker/Django-5.0-Todo-List-manager-with-bootstrap-5.git)
+   git clone https://github.com/MoviesLiker/Django-5.0-Todo-List-manager-with-bootstrap-5.git
    ```
 
 2. Install dependencies:
